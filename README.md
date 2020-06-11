@@ -19,4 +19,4 @@ We are learing how to refactor code so that is more clearner and easy to underst
 ```
 4. Added alt attribute in the image link.
 
-### Link to my site [title] (http://github.com/preeti1234567/code-Refractor-Homework/index.html)
+### Link to my site [title] (http://github.com/preeti1234567/code-Refractor-Homework/)
